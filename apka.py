@@ -3,5 +3,5 @@ wiek = input("Podaj wiek: ")
 if wiek.isdigit() == False:
     exit("Wiek musi być liczbą")
 wiek = int(wiek)
-if wiek >= 18
+if wiek >= 18:
     print("Witamy!")
