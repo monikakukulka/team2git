@@ -1,4 +1,4 @@
-# Hej grupo 1 lub 2 lub 3
+# Hej grupo 2
 
 ##Documentation
 
@@ -15,4 +15,3 @@ Design app that meets below requirements:
 ###Other tasks to be completed:
 - [] .Gitignore file
 - [] Readme documentation
- 
